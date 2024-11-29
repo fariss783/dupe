@@ -2121,7 +2121,7 @@ end
 AnythingInChestSection:CreateSlider({
     Name = 'Amount of item',
     Min = 1,
-	Max = 200,
+	Max = 1000,
 	Default = 1,
 	Digits = 0,
 	Flag = 'AmountChestItem',
